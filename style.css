@@ -1,0 +1,18 @@
+
+#footer {
+    bottom: 1;
+    width: 100%;
+    position: absolute;
+    height: 50px;
+	background-color: black;
+	text-align: center;
+}
+
+div.large {
+	background-color: #8fbbbc;
+}
+
+p  { 
+	color: white;
+  } 
+
